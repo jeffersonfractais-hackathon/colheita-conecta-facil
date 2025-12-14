@@ -1,73 +1,92 @@
-# Welcome to your Lovable project
+# 🌱 Cultivo+
 
-## Project info
+**Cultivo+** é uma solução digital de impacto social que utiliza **geolocalização** e **inteligência artificial simples** para conectar pequenos agricultores com compradores próximos **no momento certo**, evitando o desperdício de alimentos, aumentando a renda do produtor e fortalecendo a segurança alimentar local.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 📌 Propósito
 
-There are several ways of editing your application.
+No Brasil, grande parte do desperdício de alimentos ocorre **antes do varejo**, especialmente na agricultura familiar. Pequenos produtores lidam com alimentos perecíveis, excedentes imprevisíveis e dificuldade de acesso rápido a compradores. Quando a venda não acontece a tempo, o alimento estraga, a renda some e o produtor é empurrado para fora do campo.
 
-**Use Lovable**
+O **Cultivo+** nasce para resolver **um momento crítico da cadeia alimentar**:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+> o instante em que o alimento pode virar lixo.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 💡 A Solução
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+O Cultivo+ é um **app de geolocalização**, inspirado em soluções simples e intuitivas como o Tinder:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Produtores cadastram excedentes de safra
+- Esses excedentes aparecem em um **mapa local**
+- Compradores próximos visualizam e demonstram interesse (*match*)
+- A negociação acontece de forma direta, sem atravessadores
 
-Follow these steps:
+Além disso, uma **IA de previsibilidade** alerta o produtor quando a colheita corre risco de se perder, permitindo agir antes que o desperdício aconteça.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🤖 Uso de Inteligência Artificial
 
-# Step 3: Install the necessary dependencies.
-npm i
+A IA no Cultivo+ é **responsável, explicável e objetiva**.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### A IA é utilizada para:
+- Estimar **risco de perda** de alimentos perecíveis
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🎯 Público-Alvo
 
-**Use GitHub Codespaces**
+### Usuários principais
+- Pequenos agricultores familiares
+- Feirantes locais
+- Pequenos mercados
+- Escolas públicas
+- Bancos de alimentos e ONGs
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## ⚖️ Impacto Social
 
-## What technologies are used for this project?
+O Cultivo+ contribui diretamente para:
 
-This project is built with:
+- Redução do desperdício de alimentos
+- Aumento da renda do pequeno produtor
+- Fortalecimento da economia local
+- Ampliação do acesso a alimentos frescos
+- Redução da desigualdade no campo
+- Permanência do agricultor na atividade agrícola
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🧩 Funcionalidades do MVP
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+- Cadastro simples de produtor
+- Cadastro de excedente (produto, quantidade, data)
+- Mapa com geolocalização dos excedentes
+- Visualização de compradores próximos
+- Match e contato direto
+- Alerta de risco de perda baseado em IA
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 💰 Modelo de Sustentabilidade
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- Acesso **gratuito para o produtor**
+- Sustentação via:
+  - contratos institucionais
+  - projetos de impacto
+  - parcerias com organizações e empresas ESG
+
+O modelo evita transferir custos para quem já está em situação de vulnerabilidade.
+
+---
+
+## 🧠 Princípios do Projeto
+
+- Simplicidade
+- Impacto social real
+- Uso responsável de IA
+- Foco no pequeno produtor
+- Redução do desperdício
+- Fortalecimento da economia local
